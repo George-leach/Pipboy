@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8996da19-0459-4170-8880-d5241d7d5b3b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iYEyEkF4qDuvWfZwfL9A1WNbhy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.smartKeys" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\George\WebstormProjects\Pipboy" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8996da19-0459-4170-8880-d5241d7d5b3b" name="Default Changelist" comment="" />
+      <created>1602076377941</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602076377941</updated>
+      <workItem from="1602076379194" duration="25009000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="714" y="344" key="#Notifications" timestamp="1602112826394">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="714" y="344" key="#Notifications/0.0.1920.1040/1920.0.2560.1560@0.0.1920.1040" timestamp="1602112826394" />
+    <state x="707" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602080665185">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="707" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.2560.1560@0.0.1920.1040" timestamp="1602080665185" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1602112834844">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.2560.1560@0.0.1920.1040" timestamp="1602112834844" />
+    <state x="615" y="389" key="Github.ShareDialog" timestamp="1602112786391">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="615" y="389" key="Github.ShareDialog/0.0.1920.1040/1920.0.2560.1560@0.0.1920.1040" timestamp="1602112786391" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1602078209971">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/1920.0.2560.1560@0.0.1920.1040" timestamp="1602078209971" />
+    <state width="600" height="428" key="javadoc.popup" timestamp="1602090539609">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="600" height="428" key="javadoc.popup/0.0.1920.1040/1920.0.2560.1560@0.0.1920.1040" timestamp="1602090539609" />
+  </component>
+</project>
